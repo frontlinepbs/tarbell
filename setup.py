@@ -36,7 +36,7 @@ Tarbell makes use of familiar, flexible tools to take the magic (and frustration
         "Frozen-Flask==0.11",
         "Jinja2==3.1.3",
         "Markdown==3.5.2",
-        "MarkupSafe==0.23",
+        "MarkupSafe==2.1.5",
         "PyYAML==4.2b4",
         "boto==2.48.0",
         "clint==0.4.1",
